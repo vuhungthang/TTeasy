@@ -1,1 +1,2 @@
-# TTeazy website
+# TTEasy
+
